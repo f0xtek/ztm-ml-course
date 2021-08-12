@@ -65,7 +65,7 @@ dependencies:
   - nbformat=5.1.3=pyhd3eb1b0_0
   - ncurses=6.2=h0a44026_1
   - nest-asyncio=1.5.1=pyhd3eb1b0_0
-  - notebook=6.4.1=py39hecd8cb5_0
+  - notebook=6.4.2=py39hecd8cb5_0
   - numexpr=2.7.3=py39h5873af2_1
   - numpy=1.20.3=py39h4b4dc7a_0
   - numpy-base=1.20.3=py39he0bd621_0
@@ -120,4 +120,4 @@ dependencies:
   - zipp=3.5.0=pyhd3eb1b0_0
   - zlib=1.2.11=h1de35cc_3
   - zstd=1.4.9=h322a384_0
-prefix: /Users/LANDERS4/projects/personal/ztm-ml/pandas-data-analysis/env
+prefix: /Users/LANDERS4/projects/personal/ztm-ml/env
